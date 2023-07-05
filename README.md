@@ -1,3 +1,7 @@
+#UAS LAB PBK
+NAMA : Muhammad Dhiki Wahyudi
+NPM : 213510549
+
 # uas-lab-dhiki
 
 ## Project setup
